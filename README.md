@@ -6,7 +6,7 @@
 const aboutMe = {
   name: "Vedansh",
   age: 17,
-  pronouns: "He/Him",
+  pronouns: ["He", "Him"],
   hobbies: [
     "Learning New Stuff", "Annoying people", "Coding"
   ]
