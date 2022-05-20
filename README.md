@@ -23,6 +23,13 @@ const aboutMe = {
   <h3>Frameworks</h3>
   <img src="https://img.shields.io/badge/-Bootstrap-602C50?style=for-the-badge&labelColor=602C50&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&labelColor=black&logo=React&logoColor=blue" >
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  
+  <h3>Tools & Softwares</h3>
+  <img src="https://img.shields.io/badge/-vs code-2c2f33?style=for-the-badge&labelColor=2c2f33&logo=visualstudiocode&logoColor=blue">
+  <img src="https://img.shields.io/badge/-git-orange?style=for-the-badge&labelColor=orange&logo=git&logoColor=black">
+  <img src="https://img.shields.io/badge/-github-whitesmoke?style=for-the-badge&labelColor=whitesmoke&logo=github&logoColor=black">
+  <img src="https://img.shields.io/badge/-Node JS-darkgreen?style=for-the-badge&labelColor=darkgreen&logo=nodedotjs&logoColor=white">
   
 </div>
 
