@@ -12,6 +12,16 @@ const aboutMe = {
   ]
 }
 ```
+<h1 align="center">My Tech Stack </></h1>
+
+<div>
+  <img src="https://cdn.discordapp.com/attachments/743817386792058971/977169355106295828/unknown.png">
+  <img src="https://cdn.discordapp.com/attachments/743817386792058971/977170631852449812/unknown.png">
+  <img src="https://cdn.discordapp.com/attachments/743817386792058971/977170804909432872/unknown.png">
+  <img src="https://cdn.discordapp.com/attachments/743817386792058971/977170944651055104/unknown.png">
+  <img src="https://cdn.discordapp.com/attachments/743817386792058971/977171126411198484/unknown.png">
+  
+</div>
 
 <!---
 TITANxTCA/TITANxTCA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
