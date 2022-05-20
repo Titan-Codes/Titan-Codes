@@ -20,6 +20,9 @@ const aboutMe = {
   <img src="https://img.shields.io/badge/-HTML 5-orange?style=for-the-badge&labelColor=orange&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-css 3-blue?style=for-the-badge&labelColor=blue&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black">
+  <h3>Frameworks</h3>
+  <img src="https://img.shields.io/badge/-Bootstrap-602C50?style=for-the-badge&labelColor=602C50&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&labelColor=black&logo=React&logoColor=blue" >
   
 </div>
 
