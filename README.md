@@ -14,12 +14,12 @@ const aboutMe = {
 ```
 <h1 align="center">My Tech Stack </></h1>
 
-<div>
-  <img width="50px" height="50px" src="https://cdn.discordapp.com/attachments/743817386792058971/977169355106295828/unknown.png">
-  <img width="50px" height="50px" src="https://cdn.discordapp.com/attachments/743817386792058971/977170631852449812/unknown.png">
-  <img width="50px" height="50px" src="https://cdn.discordapp.com/attachments/743817386792058971/977170804909432872/unknown.png">
-  <img width="50px" height="50px" src="https://cdn.discordapp.com/attachments/743817386792058971/977170944651055104/unknown.png">
-  <img width="50px" height="50px" src="https://cdn.discordapp.com/attachments/743817386792058971/977171126411198484/unknown.png">
+<div align="center">
+  <img width="60px" height="60px" src="https://cdn.discordapp.com/attachments/743817386792058971/977169355106295828/unknown.png">
+  <img width="60px" height="60px" src="https://cdn.discordapp.com/attachments/743817386792058971/977170631852449812/unknown.png">
+  <img width="60px" height="60px" src="https://cdn.discordapp.com/attachments/743817386792058971/977170804909432872/unknown.png">
+  <img width="60px" height="60px" src="https://cdn.discordapp.com/attachments/743817386792058971/977170944651055104/unknown.png">
+  <img width="60px" height="60px" src="https://cdn.discordapp.com/attachments/743817386792058971/977171126411198484/unknown.png">
   
 </div>
 
