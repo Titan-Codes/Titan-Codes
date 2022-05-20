@@ -15,11 +15,11 @@ const aboutMe = {
 <h1 align="center">My Tech Stack </></h1>
 
 <div align="center" style="margin-top: 10px">
-  <img width="60px" height="60px" src="https://cdn.discordapp.com/attachments/743817386792058971/977169355106295828/unknown.png">
-  <img width="60px" height="60px" src="https://cdn.discordapp.com/attachments/743817386792058971/977170631852449812/unknown.png">
-  <img width="60px" height="60px" src="https://cdn.discordapp.com/attachments/743817386792058971/977170804909432872/unknown.png">
-  <img width="60px" height="60px" src="https://cdn.discordapp.com/attachments/743817386792058971/977170944651055104/unknown.png">
-  <img width="60px" height="60px" src="https://cdn.discordapp.com/attachments/743817386792058971/977171126411198484/unknown.png">
+  <h3>Languages</h3>
+  <img src="https://img.shields.io/badge/-python-ffd43b?style=for-the-badge&labelColor=306998&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML 5-orange?style=for-the-badge&labelColor=orange&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-css 3-blue?style=for-the-badge&labelColor=blue&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black">
   
 </div>
 
