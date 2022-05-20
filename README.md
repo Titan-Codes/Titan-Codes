@@ -14,7 +14,7 @@ const aboutMe = {
 ```
 <h1 align="center">My Tech Stack </></h1>
 
-<div align="center" margin-right="10px" margin-left="px" margin-top="px">
+<div align="center" style="margin-right: 10px; margin-left: 10px; margin-top: 10px;">
   <img width="60px" height="60px" src="https://cdn.discordapp.com/attachments/743817386792058971/977169355106295828/unknown.png">
   <img width="60px" height="60px" src="https://cdn.discordapp.com/attachments/743817386792058971/977170631852449812/unknown.png">
   <img width="60px" height="60px" src="https://cdn.discordapp.com/attachments/743817386792058971/977170804909432872/unknown.png">
