@@ -8,7 +8,7 @@ const aboutMe = {
   age: 17,
   pronouns: ["He", "Him"],
   hobbies: [
-    "Learning New Stuff", "Annoying people", "Coding"
+    "Coding", "Learning New Stuff", "Annoying people"
   ]
 }
 ```
