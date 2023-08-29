@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Vedansh <img src="https://avatars.githubusercontent.com/u/80444511?s=400&u=f2b1e92e84d058d6b88d64d40b537fcd98ba5809&v=4" width="30px"></h1>
+<h1 align="center">Hey, Vedansh here!👋</h1>
 
 <h2 align="center">About me</h2>
 
@@ -8,7 +8,7 @@ const aboutMe = {
   age: 17,
   pronouns: ["He", "Him"],
   hobbies: [
-    "Coding", "Learning New Stuff", "Music"
+    "Coding", "Chess", "Music"
   ]
 }
 ```
