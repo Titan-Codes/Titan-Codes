@@ -5,7 +5,7 @@
 ```js
 const aboutMe = {
   name: "Vedansh",
-  age: 17,
+  age: 18,
   pronouns: ["He", "Him"],
   hobbies: [
     "Coding", "Chess", "Music"
